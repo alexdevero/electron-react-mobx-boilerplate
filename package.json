@@ -1,23 +1,39 @@
 {
   "name": "electron-react-mobx-boilerplate",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A simple boilerplate for building apps with Electron, React, MobX and Webpack",
-  "main": "main.js",
-  "engines": {
-    "node": ">=8.x",
-    "npm": ">=5.x",
-    "yarn": ">=1.x.x"
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexdevero/electron-react-mobx-boilerplate.git"
   },
-  "scripts": {
+  "homepage": "https://github.com/alexdevero/electron-react-mobx-boilerplate#readme",
+  "bugs": {
+    "url": "https://github.com/alexdevero/electron-react-mobx-boilerplate/issues"
   },
   "author": {
     "name": "Alex Devero",
     "email": "deveroalex@gmail.com",
     "url": "https://github.com/alexdevero"
   },
-  "license": "MIT",
-  "devDependencies": {
+  "contributors": [
+    {
+      "name": "Foo Bar",
+      "email": "foo.bar@example.com",
+      "url": "https://github.com/contributor"
+    }
+  ],
+  "keywords": [
+    "foo"
+  ],
+  "engines": {
+    "node": ">=8.x",
+    "npm": ">=5.x",
+    "yarn": ">=1.x.x"
   },
-  "dependencies": {
-  }
+  "main": "main.js",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {}
 }
