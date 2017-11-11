@@ -1,7 +1,7 @@
 {
   "name": "electron-react-mobx-boilerplate",
   "version": "0.0.1",
-  "description": "A simple boilerplate for building apps with Electron, React, MobX and Webpack",
+  "description": "A simple boilerplate to help you build apps with Electron, React, MobX and Webpack.",
   "license": "MIT",
   "private": false,
   "repository": {
