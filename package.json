@@ -4,9 +4,9 @@
   "description": "A simple boilerplate for building apps with Electron, React, MobX and Webpack",
   "main": "main.js",
   "engines": {
-    "node": ">=7.x",
+    "node": ">=8.x",
     "npm": ">=5.x",
-    "yarn": ">=0.24.x"
+    "yarn": ">=1.x.x"
   },
   "scripts": {
   },
