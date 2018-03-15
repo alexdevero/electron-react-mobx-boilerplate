@@ -37,7 +37,7 @@ module.exports = {
   target: 'electron-renderer',
   plugins: [
     new HtmlWebpackPlugin({
-      title: "Electron - React - MobX Boilerplate"
+      title: 'Electron - React - MobX Boilerplate'
     }),
     new ExtractTextPlugin('bundle.css'),
     new webpack.DefinePlugin({
