@@ -1,18 +1,6 @@
 {
   "presets": [
-    [
-      "env",
-      {
-        "targets": {
-          "browsers": [
-            "Firefox >= 48",
-            "Chrome >= 54",
-            "ie >= 10",
-            "last 4 versions",
-            "Safari >= 8"
-          ]
-        }
-      }
-    ]
+    "env",
+    "react"
   ]
 }
