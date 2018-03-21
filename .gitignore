@@ -6,7 +6,7 @@ main.js.map
 
 # Compiled binary addons (http://nodejs.org/api/addons.html) #
 ##############################################################
-build/Release
+builds/
 
 # Coverage directory used by tools like istanbul #
 ##################################################
